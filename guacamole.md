@@ -3,5 +3,6 @@
 * avocado (1.35)
 * lime (0.64)
 * salt (2)
-## Instructions 
+## Instructions
+* put one avocado into a bowl. 
 
